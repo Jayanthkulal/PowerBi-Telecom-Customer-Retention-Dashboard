@@ -12,4 +12,4 @@ This project aims to assist the retention department of a telecom company in imp
 The telecom company faces difficulties in maintaining customer retention and effectively managing customer churn. Current methods are reactionary, with insufficient tools for proactive identification of at-risk customers.
 
 ## Data Source
-The dataset used for this task was presented by {Pwc}(https://www.pwc.in/) and the call centre trends dataset:
+The dataset used for this task was presented by [Pwc](https://www.pwc.in/) and the call centre trends dataset:
