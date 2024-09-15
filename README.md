@@ -14,3 +14,23 @@ The telecom company faces difficulties in maintaining customer retention and eff
 ## Data Source
 The dataset used for this task was presented by [Pwc](https://www.pwc.in/) and the call centre trends dataset:
 - Dataset: [Call Centre Trends](https://github.com/Jayanthkulal/PowerBi-Telecom-Customer-Retention-Dashboard/blob/main/02%20Churn-Dataset%20(1).xlsx)
+
+
+## Data Preparation:
+
+Completed the Data transformation in Power Query and the dataset loaded into Microsoft Power BI Desktop for modeling.
+Churn dataset is give table named:
+
+ - churn dataset has 23 columns and 7044 rows
+
+  Data Cleaning for the dataset was done in the power query editor as follows:
+
+ - Removed Unnecessary columns.
+ - Removed Unnecessary rows.
+ - Each of the columns in the table were validated to have the correct data type.
+
+## Data Modeling:
+- the cusustomer retension table as show below
+
+  
+  
