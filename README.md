@@ -13,4 +13,4 @@ The telecom company faces difficulties in maintaining customer retention and eff
 
 ## Data Source
 The dataset used for this task was presented by [Pwc](https://www.pwc.in/) and the call centre trends dataset:
-- Dataset: [Call Centre Trends]
+- Dataset: [Call Centre Trends](https://github.com/Jayanthkulal/PowerBi-Telecom-Customer-Retention-Dashboard/blob/main/02%20Churn-Dataset%20(1).xlsx)
