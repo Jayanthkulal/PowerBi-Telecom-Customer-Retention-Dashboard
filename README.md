@@ -72,7 +72,7 @@ And then dataset was cleaned and transformed, it was ready to the data modeled.
 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
 
-Dashboard: View Dashboard
+Dashboard: [View Dashboard](https://github.com/Jayanthkulal/PowerBi-Telecom-Customer-Retention-Dashboard/blob/main/customer%20retention%20-pwc.pbix)
 
 Shows visualizations from Customer Retention analysis:
 Customer Churn
