@@ -32,6 +32,8 @@ Churn dataset is give table named:
 ## Data Modeling:
 And then dataset was cleaned and transformed, it was ready to the data modeled.
 - The customer churn tables as show below:
+
+
 ![Screenshot 2024-09-17 224420](https://github.com/user-attachments/assets/49ca9687-e63b-46f9-b5f9-c7f4461a9c41)
 
 ## Data Analysis (DAX):
